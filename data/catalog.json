@@ -3237,10 +3237,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/hollow-faust.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/hollow-faust",
       "sortOrder": 0,
-      "verified": false
+      "verified": false,
+      "slug": "hollow-faust",
+      "imageSource": "LimbusDeck E.G.O illustration"
     },
     {
       "id": "ego:뫼르소:구멍",
@@ -3254,10 +3256,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/hollow-meursault.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/hollow-meursault",
       "sortOrder": 1,
-      "verified": false
+      "verified": false,
+      "slug": "hollow-meursault",
+      "imageSource": "LimbusDeck E.G.O illustration"
     },
     {
       "id": "ego:홍루:거절선포",
@@ -3271,10 +3275,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/repudiation-hong-lu.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/repudiation-hong-lu",
       "sortOrder": 2,
-      "verified": false
+      "verified": false,
+      "slug": "repudiation-hong-lu",
+      "imageSource": "LimbusDeck E.G.O illustration"
     },
     {
       "id": "ego:로쟈:거울촉각",
@@ -3288,10 +3294,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/mirror-touch-rodion.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/mirror-touch-rodion",
       "sortOrder": 3,
-      "verified": false
+      "verified": false,
+      "slug": "mirror-touch-rodion",
+      "imageSource": "LimbusDeck E.G.O illustration"
     },
     {
       "id": "ego:그레고르:입주 신고",
@@ -3305,10 +3313,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/move-in-reg-gregor.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/move-in-reg-gregor",
       "sortOrder": 4,
-      "verified": false
+      "verified": false,
+      "slug": "move-in-reg-gregor",
+      "imageSource": "LimbusDeck E.G.O illustration"
     },
     {
       "id": "ego:돈키호테:난 가위를 낼게, 너는?",
@@ -3322,10 +3332,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/ill-go-fer-scissors-how-bout-you-don-quixote.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/ill-go-fer-scissors-how-bout-you-don-quixote",
       "sortOrder": 5,
-      "verified": false
+      "verified": false,
+      "slug": "ill-go-fer-scissors-how-bout-you-don-quixote",
+      "imageSource": "LimbusDeck E.G.O illustration"
     },
     {
       "id": "ego:이상:엄숙한 애도",
@@ -5424,5 +5436,5 @@
     "note": "초기 인격 190종, E.G.O 116종. 초기 E.G.O 중 일부의 정확한 출시일/이미지/키워드는 데이터 미확인으로 빈칸 처리."
   },
   "lastEgoImageCheck": "2026-10-24",
-  "egoImageCount": 110
+  "egoImageCount": 116
 }
