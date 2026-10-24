@@ -60,7 +60,15 @@ def verified_image(item):
 
 def main():
     catalog=json.loads(CAT.read_text(encoding="utf-8"))
-    cards=get_cards()
+    pending=[e for e in catalog["egos"] if not e.get("image")]
+    if not pending:
+        print("All",len(catalog["egos"]),"E.G.O records have artwork URLs; no upstream requests needed.",flush=True)
+        return
+    try:
+        cards=get_cards()
+    except requests.RequestException as exc:
+        print("Upstream blocked or unavailable: skip safely, keep catalog and deploy. Reason:",str(exc)[:180],flush=True)
+        return
     updates=[]
     missing=[]
     for e in catalog["egos"]:
