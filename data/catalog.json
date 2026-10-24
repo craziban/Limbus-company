@@ -3339,10 +3339,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/solemn-lament-yi-sang.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/solemn-lament-yi-sang",
       "sortOrder": 6,
-      "verified": false
+      "verified": false,
+      "slug": "solemn-lament-yi-sang",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:뫼르소:착영휘도 [着影揮刀]",
@@ -3356,10 +3358,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/shadow-vested-bladesinger-%5B%E7%9D%80%E5%BD%B1%E6%8F%AE%E5%88%80%5D-meursault.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/shadow-vested-bladesinger-%5B%E7%9D%80%E5%BD%B1%E6%8F%AE%E5%88%80%5D-meursault",
       "sortOrder": 7,
-      "verified": false
+      "verified": false,
+      "slug": "shadow-vested-bladesinger-[着影揮刀]-meursault",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:로쟈:노을 속으로",
@@ -3373,10 +3377,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/into-the-sunset-rodion.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/into-the-sunset-rodion",
       "sortOrder": 8,
-      "verified": false
+      "verified": false,
+      "slug": "into-the-sunset-rodion",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:파우스트:홍염살",
@@ -3390,10 +3396,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/ardor-blossom-star-faust.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/ardor-blossom-star-faust",
       "sortOrder": 9,
-      "verified": false
+      "verified": false,
+      "slug": "ardor-blossom-star-faust",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:싱클레어:하모니",
@@ -3407,10 +3415,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/harmony-sinclair.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/harmony-sinclair",
       "sortOrder": 10,
-      "verified": false
+      "verified": false,
+      "slug": "harmony-sinclair",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:이상:삼천대세계 [三千大世界]",
@@ -3424,10 +3434,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/great-trichiliocosm-%5B%E4%B8%89%E5%8D%83%E5%A4%A7%E4%B8%96%E7%95%8C%5D-yi-sang.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/great-trichiliocosm-%5B%E4%B8%89%E5%8D%83%E5%A4%A7%E4%B8%96%E7%95%8C%5D-yi-sang",
       "sortOrder": 11,
-      "verified": false
+      "verified": false,
+      "slug": "great-trichiliocosm-[三千大世界]-yi-sang",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:료슈:삼천대세계 [三千大世界]",
@@ -3441,10 +3453,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/great-trichiliocosm-%5B%E4%B8%89%E5%8D%83%E5%A4%A7%E4%B8%96%E7%95%8C%5D-ryoshu.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/great-trichiliocosm-%5B%E4%B8%89%E5%8D%83%E5%A4%A7%E4%B8%96%E7%95%8C%5D-ryoshu",
       "sortOrder": 12,
-      "verified": false
+      "verified": false,
+      "slug": "great-trichiliocosm-[三千大世界]-ryoshu",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:히스클리프:입주 신고",
@@ -3458,10 +3472,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/move-in-reg-heathcliff.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/move-in-reg-heathcliff",
       "sortOrder": 13,
-      "verified": false
+      "verified": false,
+      "slug": "move-in-reg-heathcliff",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:오티스:난 가위를 낼게, 너는?",
@@ -3475,10 +3491,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/ill-go-fer-scissors-how-bout-you-outis.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/ill-go-fer-scissors-how-bout-you-outis",
       "sortOrder": 14,
-      "verified": false
+      "verified": false,
+      "slug": "ill-go-fer-scissors-how-bout-you-outis",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:파우스트:명령 : 용해",
@@ -3492,10 +3510,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/command-meltdown-faust.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/command-meltdown-faust",
       "sortOrder": 15,
-      "verified": false
+      "verified": false,
+      "slug": "command-meltdown-faust",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:홍루:영작오 [宁作吾]",
@@ -3509,10 +3529,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/to-remain-oneself-%5B%E5%AE%81%E4%BD%9C%E5%90%BE%5D-hong-lu.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/to-remain-oneself-%5B%E5%AE%81%E4%BD%9C%E5%90%BE%5D-hong-lu",
       "sortOrder": 16,
-      "verified": false
+      "verified": false,
+      "slug": "to-remain-oneself-[宁作吾]-hong-lu",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:이스마엘:파도의 만가",
@@ -3526,10 +3548,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/tidal-elegy-ishmael.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/tidal-elegy-ishmael",
       "sortOrder": 17,
-      "verified": false
+      "verified": false,
+      "slug": "tidal-elegy-ishmael",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:그레고르:눈부시지 않은 영광",
@@ -3543,10 +3567,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/unbrilliant-glory-gregor.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/unbrilliant-glory-gregor",
       "sortOrder": 18,
-      "verified": false
+      "verified": false,
+      "slug": "unbrilliant-glory-gregor",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:뫼르소:분쇄될 과거",
@@ -3560,10 +3586,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/crushbound-past-meursault.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/crushbound-past-meursault",
       "sortOrder": 19,
-      "verified": false
+      "verified": false,
+      "slug": "crushbound-past-meursault",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:돈키호테:사랑과 증오의 이름으로",
@@ -3577,10 +3605,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/in-the-name-of-love-and-hate-don-quixote.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/in-the-name-of-love-and-hate-don-quixote",
       "sortOrder": 20,
-      "verified": false
+      "verified": false,
+      "slug": "in-the-name-of-love-and-hate-don-quixote",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:홍루:오혈읍루 [汚血泣淚]",
@@ -3594,10 +3624,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/tears-of-the-tarnished-blood-%5B%E6%B1%9A%E8%A1%80%E6%B3%A3%E6%B7%9A%5D-hong-lu.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/tears-of-the-tarnished-blood-%5B%E6%B1%9A%E8%A1%80%E6%B3%A3%E6%B7%9A%5D-hong-lu",
       "sortOrder": 21,
-      "verified": false
+      "verified": false,
+      "slug": "tears-of-the-tarnished-blood-[汚血泣淚]-hong-lu",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:싱클레어:오혈읍루 [汚血泣淚]",
@@ -3611,10 +3643,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/tears-of-the-tarnished-blood-%5B%E6%B1%9A%E8%A1%80%E6%B3%A3%E6%B7%9A%5D-sinclair.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/tears-of-the-tarnished-blood-%5B%E6%B1%9A%E8%A1%80%E6%B3%A3%E6%B7%9A%5D-sinclair",
       "sortOrder": 22,
-      "verified": false
+      "verified": false,
+      "slug": "tears-of-the-tarnished-blood-[汚血泣淚]-sinclair",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:돈키호테:홍적",
@@ -3628,10 +3662,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/red-sheet-don-quixote.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/red-sheet-don-quixote",
       "sortOrder": 23,
-      "verified": false
+      "verified": false,
+      "slug": "red-sheet-don-quixote",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:이스마엘:즉저살 [蝍蛆殺]",
@@ -3645,10 +3681,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/hundred-footed-death-maggot-%5B%E8%9D%8D%E8%9B%86%E6%AE%BA%5D-ishmael.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/hundred-footed-death-maggot-%5B%E8%9D%8D%E8%9B%86%E6%AE%BA%5D-ishmael",
       "sortOrder": 24,
-      "verified": false
+      "verified": false,
+      "slug": "hundred-footed-death-maggot-[蝍蛆殺]-ishmael",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:로쟈:지정 재판",
@@ -3662,10 +3700,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/indicants-trial-rodion.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/indicants-trial-rodion",
       "sortOrder": 25,
-      "verified": false
+      "verified": false,
+      "slug": "indicants-trial-rodion",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:파우스트:흉통",
@@ -3679,10 +3719,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/thoracalgia-faust.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/thoracalgia-faust",
       "sortOrder": 26,
-      "verified": false
+      "verified": false,
+      "slug": "thoracalgia-faust",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:료슈:흉통",
@@ -3696,10 +3738,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/thoracalgia-ryoshu.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/thoracalgia-ryoshu",
       "sortOrder": 27,
-      "verified": false
+      "verified": false,
+      "slug": "thoracalgia-ryoshu",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:오티스:마탄",
@@ -3713,10 +3757,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/magic-bullet-outis.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/magic-bullet-outis",
       "sortOrder": 28,
-      "verified": false
+      "verified": false,
+      "slug": "magic-bullet-outis",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:이스마엘:크리스마스 악몽",
@@ -3730,10 +3776,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/christmas-nightmare-ishmael.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/christmas-nightmare-ishmael",
       "sortOrder": 29,
-      "verified": false
+      "verified": false,
+      "slug": "christmas-nightmare-ishmael",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:그레고르:크리스마스 악몽",
@@ -3747,10 +3795,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/christmas-nightmare-gregor.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/christmas-nightmare-gregor",
       "sortOrder": 30,
-      "verified": false
+      "verified": false,
+      "slug": "christmas-nightmare-gregor",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:히스클리프:쏠린 관성",
@@ -3764,10 +3814,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/asymmetrical-inertia-heathcliff.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/asymmetrical-inertia-heathcliff",
       "sortOrder": 31,
-      "verified": false
+      "verified": false,
+      "slug": "asymmetrical-inertia-heathcliff",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:이상:흉탄",
@@ -3781,10 +3833,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/fell-bullet-yi-sang.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/fell-bullet-yi-sang",
       "sortOrder": 32,
-      "verified": false
+      "verified": false,
+      "slug": "fell-bullet-yi-sang",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:돈키호테:갈망 - 미르칼라",
@@ -3798,10 +3852,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/yearning-mircalla-don-quixote.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/yearning-mircalla-don-quixote",
       "sortOrder": 33,
-      "verified": false
+      "verified": false,
+      "slug": "yearning-mircalla-don-quixote",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:뫼르소:갈망 - 미르칼라",
@@ -3815,10 +3871,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/yearning-mircalla-meursault.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/yearning-mircalla-meursault",
       "sortOrder": 34,
-      "verified": false
+      "verified": false,
+      "slug": "yearning-mircalla-meursault",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:로쟈:저주못",
@@ -3832,10 +3890,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/hex-nail-rodion.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/hex-nail-rodion",
       "sortOrder": 35,
-      "verified": false
+      "verified": false,
+      "slug": "hex-nail-rodion",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:싱클레어:저주못",
@@ -3849,10 +3909,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/hex-nail-sinclair.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/hex-nail-sinclair",
       "sortOrder": 36,
-      "verified": false
+      "verified": false,
+      "slug": "hex-nail-sinclair",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:파우스트:올가미",
@@ -3866,10 +3928,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/lasso-faust.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/lasso-faust",
       "sortOrder": 37,
-      "verified": false
+      "verified": false,
+      "slug": "lasso-faust",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:홍루:올가미",
@@ -3883,10 +3947,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/lasso-hong-lu.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/lasso-hong-lu",
       "sortOrder": 38,
-      "verified": false
+      "verified": false,
+      "slug": "lasso-hong-lu",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:이스마엘:지난 날",
@@ -3900,10 +3966,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/bygone-days-ishmael.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/bygone-days-ishmael",
       "sortOrder": 39,
-      "verified": false
+      "verified": false,
+      "slug": "bygone-days-ishmael",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:그레고르:엄숙한 애도",
@@ -3917,10 +3985,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/solemn-lament-gregor.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/solemn-lament-gregor",
       "sortOrder": 40,
-      "verified": false
+      "verified": false,
+      "slug": "solemn-lament-gregor",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:오티스:차원찢개",
@@ -3934,10 +4004,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/dimension-shredder-outis.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/dimension-shredder-outis",
       "sortOrder": 41,
-      "verified": false
+      "verified": false,
+      "slug": "dimension-shredder-outis",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:히스클리프:흉탄",
@@ -3951,10 +4023,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/fell-bullet-heathcliff.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/fell-bullet-heathcliff",
       "sortOrder": 42,
-      "verified": false
+      "verified": false,
+      "slug": "fell-bullet-heathcliff",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:료슈:경멸, 경외",
@@ -3968,10 +4042,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/contempt-awe-ryoshu.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/contempt-awe-ryoshu",
       "sortOrder": 43,
-      "verified": false
+      "verified": false,
+      "slug": "contempt-awe-ryoshu",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:파우스트:영속",
@@ -3985,10 +4061,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/everlasting-faust.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/everlasting-faust",
       "sortOrder": 44,
-      "verified": false
+      "verified": false,
+      "slug": "everlasting-faust",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:홍루:낮은울음",
@@ -4002,10 +4080,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/cavernous-wailing-hong-lu.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/cavernous-wailing-hong-lu",
       "sortOrder": 45,
-      "verified": false
+      "verified": false,
+      "slug": "cavernous-wailing-hong-lu",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:싱클레어:낮은울음",
@@ -4019,10 +4099,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/cavernous-wailing-sinclair.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/cavernous-wailing-sinclair",
       "sortOrder": 46,
-      "verified": false
+      "verified": false,
+      "slug": "cavernous-wailing-sinclair",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:이스마엘:날갯짓",
@@ -4036,10 +4118,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/wingbeat-ishmael.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/wingbeat-ishmael",
       "sortOrder": 47,
-      "verified": false
+      "verified": false,
+      "slug": "wingbeat-ishmael",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:로쟈:핏빛욕망",
@@ -4053,10 +4137,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/sanguine-desire-rodion.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/sanguine-desire-rodion",
       "sortOrder": 48,
-      "verified": false
+      "verified": false,
+      "slug": "sanguine-desire-rodion",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:돈키호테:전기울음",
@@ -4070,10 +4156,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/electric-screaming-don-quixote.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/electric-screaming-don-quixote",
       "sortOrder": 49,
-      "verified": false
+      "verified": false,
+      "slug": "electric-screaming-don-quixote",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:뫼르소:전기울음",
@@ -4087,10 +4175,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/electric-screaming-meursault.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/electric-screaming-meursault",
       "sortOrder": 50,
-      "verified": false
+      "verified": false,
+      "slug": "electric-screaming-meursault",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:히스클리프:구속",
@@ -4104,10 +4194,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/binds-heathcliff.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/binds-heathcliff",
       "sortOrder": 51,
-      "verified": false
+      "verified": false,
+      "slug": "binds-heathcliff",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:오티스:구속",
@@ -4121,10 +4213,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/binds-outis.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/binds-outis",
       "sortOrder": 52,
-      "verified": false
+      "verified": false,
+      "slug": "binds-outis",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:이상:지난 날",
@@ -4138,10 +4232,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/bygone-days-yi-sang.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/bygone-days-yi-sang",
       "sortOrder": 53,
-      "verified": false
+      "verified": false,
+      "slug": "bygone-days-yi-sang",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:그레고르:지난 날",
@@ -4155,10 +4251,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/bygone-days-gregor.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/bygone-days-gregor",
       "sortOrder": 54,
-      "verified": false
+      "verified": false,
+      "slug": "bygone-days-gregor",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:그레고르:가시 화원",
@@ -4172,10 +4270,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/garden-of-thorns-gregor.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/garden-of-thorns-gregor",
       "sortOrder": 55,
-      "verified": false
+      "verified": false,
+      "slug": "garden-of-thorns-gregor",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:돈키호테:소망석",
@@ -4189,10 +4289,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/wishing-cairn-don-quixote.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/wishing-cairn-don-quixote",
       "sortOrder": 56,
-      "verified": false
+      "verified": false,
+      "slug": "wishing-cairn-don-quixote",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:히스클리프:홀리데이",
@@ -4206,10 +4308,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/holiday-heathcliff.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/holiday-heathcliff",
       "sortOrder": 57,
-      "verified": false
+      "verified": false,
+      "slug": "holiday-heathcliff",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:오티스:홀리데이",
@@ -4223,10 +4327,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/holiday-outis.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/holiday-outis",
       "sortOrder": 58,
-      "verified": false
+      "verified": false,
+      "slug": "holiday-outis",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:로쟈:집행",
@@ -4240,10 +4346,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/pursuance-rodion.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/pursuance-rodion",
       "sortOrder": 59,
-      "verified": false
+      "verified": false,
+      "slug": "pursuance-rodion",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:료슈:맹목",
@@ -4257,10 +4365,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/blind-obsession-ryoshu.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/blind-obsession-ryoshu",
       "sortOrder": 60,
-      "verified": false
+      "verified": false,
+      "slug": "blind-obsession-ryoshu",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:이스마엘:맹목",
@@ -4274,10 +4384,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/blind-obsession-ishmael.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/blind-obsession-ishmael",
       "sortOrder": 61,
-      "verified": false
+      "verified": false,
+      "slug": "blind-obsession-ishmael",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:로쟈:들끓는 부식",
@@ -4291,10 +4403,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/effervescent-corrosion-rodion.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/effervescent-corrosion-rodion",
       "sortOrder": 62,
-      "verified": false
+      "verified": false,
+      "slug": "effervescent-corrosion-rodion",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:싱클레어:9장 2절",
@@ -4308,10 +4422,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/92-sinclair.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/92-sinclair",
       "sortOrder": 63,
-      "verified": false
+      "verified": false,
+      "slug": "92-sinclair",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:파우스트:9장 2절",
@@ -4325,10 +4441,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/92-faust.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/92-faust",
       "sortOrder": 64,
-      "verified": false
+      "verified": false,
+      "slug": "92-faust",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:홍루:들끓는 부식",
@@ -4342,10 +4460,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/effervescent-corrosion-hong-lu.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/effervescent-corrosion-hong-lu",
       "sortOrder": 65,
-      "verified": false
+      "verified": false,
+      "slug": "effervescent-corrosion-hong-lu",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:뫼르소:후회",
@@ -4359,10 +4479,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/regret-meursault.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/regret-meursault",
       "sortOrder": 66,
-      "verified": false
+      "verified": false,
+      "slug": "regret-meursault",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:히스클리프:공즉시색",
@@ -4376,10 +4498,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/ya-%C5%9Bunyat%C4%81-tad-rupam-heathcliff.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/ya-%C5%9Bunyat%C4%81-tad-rupam-heathcliff",
       "sortOrder": 67,
-      "verified": false
+      "verified": false,
+      "slug": "ya-śunyatā-tad-rupam-heathcliff",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:싱클레어:초롱",
@@ -4393,10 +4517,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/lantern-sinclair.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/lantern-sinclair",
       "sortOrder": 68,
-      "verified": false
+      "verified": false,
+      "slug": "lantern-sinclair",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:료슈:소다",
@@ -4410,10 +4536,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/soda-ryoshu.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/soda-ryoshu",
       "sortOrder": 69,
-      "verified": false
+      "verified": false,
+      "slug": "soda-ryoshu",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:홍루:소다",
@@ -4427,10 +4555,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/soda-hong-lu.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/soda-hong-lu",
       "sortOrder": 70,
-      "verified": false
+      "verified": false,
+      "slug": "soda-hong-lu",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:료슈:적안",
@@ -4444,10 +4574,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/red-eyes-ryoshu.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/red-eyes-ryoshu",
       "sortOrder": 71,
-      "verified": false
+      "verified": false,
+      "slug": "red-eyes-ryoshu",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:료슈:적안(開)",
@@ -4461,10 +4593,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/red-eyes-open-ryoshu.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/red-eyes-open-ryoshu",
       "sortOrder": 72,
-      "verified": false
+      "verified": false,
+      "slug": "red-eyes-open-ryoshu",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:이상:여우비",
@@ -4478,10 +4612,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/sunshower-yi-sang.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/sunshower-yi-sang",
       "sortOrder": 73,
-      "verified": false
+      "verified": false,
+      "slug": "sunshower-yi-sang",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:그레고르:AEDD",
@@ -4495,10 +4631,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/aedd-gregor.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/aedd-gregor",
       "sortOrder": 74,
-      "verified": false
+      "verified": false,
+      "slug": "aedd-gregor",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:히스클리프:AEDD",
@@ -4512,10 +4650,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/aedd-heathcliff.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/aedd-heathcliff",
       "sortOrder": 75,
-      "verified": false
+      "verified": false,
+      "slug": "aedd-heathcliff",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:오티스:여우비",
@@ -4529,10 +4669,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/sunshower-outis.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/sunshower-outis",
       "sortOrder": 76,
-      "verified": false
+      "verified": false,
+      "slug": "sunshower-outis",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:뫼르소:카포테",
@@ -4546,10 +4688,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/capote-meursault.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/capote-meursault",
       "sortOrder": 77,
-      "verified": false
+      "verified": false,
+      "slug": "capote-meursault",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:이스마엘:카포테",
@@ -4563,10 +4707,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/capote-ishmael.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/capote-ishmael",
       "sortOrder": 78,
-      "verified": false
+      "verified": false,
+      "slug": "capote-ishmael",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:이상:차원찢개",
@@ -4580,10 +4726,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/dimension-shredder-yi-sang.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/dimension-shredder-yi-sang",
       "sortOrder": 79,
-      "verified": false
+      "verified": false,
+      "slug": "dimension-shredder-yi-sang",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:홍루:차원찢개",
@@ -4597,10 +4745,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/dimension-shredder-hong-lu.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/dimension-shredder-hong-lu",
       "sortOrder": 80,
-      "verified": false
+      "verified": false,
+      "slug": "dimension-shredder-hong-lu",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:돈키호테:평생 스튜",
@@ -4614,10 +4764,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/lifetime-stew-don-quixote.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/lifetime-stew-don-quixote",
       "sortOrder": 81,
-      "verified": false
+      "verified": false,
+      "slug": "lifetime-stew-don-quixote",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:싱클레어:평생 스튜",
@@ -4631,10 +4783,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/lifetime-stew-sinclair.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/lifetime-stew-sinclair",
       "sortOrder": 82,
-      "verified": false
+      "verified": false,
+      "slug": "lifetime-stew-sinclair",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:파우스트:전봇대",
@@ -4648,10 +4802,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/telepole-faust.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/telepole-faust",
       "sortOrder": 83,
-      "verified": false
+      "verified": false,
+      "slug": "telepole-faust",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:돈키호테:전봇대",
@@ -4665,10 +4821,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/telepole-don-quixote.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/telepole-don-quixote",
       "sortOrder": 84,
-      "verified": false
+      "verified": false,
+      "slug": "telepole-don-quixote",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:이상:4번째 성냥불",
@@ -4682,10 +4840,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/4th-match-flame-yi-sang.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/4th-match-flame-yi-sang",
       "sortOrder": 85,
-      "verified": false
+      "verified": false,
+      "slug": "4th-match-flame-yi-sang",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:이상:소망석",
@@ -4699,10 +4859,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/wishing-cairn-yi-sang.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/wishing-cairn-yi-sang",
       "sortOrder": 86,
-      "verified": false
+      "verified": false,
+      "slug": "wishing-cairn-yi-sang",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:파우스트:저주못",
@@ -4716,10 +4878,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/hex-nail-faust.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/hex-nail-faust",
       "sortOrder": 87,
-      "verified": false
+      "verified": false,
+      "slug": "hex-nail-faust",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:파우스트:물주머니",
@@ -4733,10 +4897,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/fluid-sac-faust.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/fluid-sac-faust",
       "sortOrder": 88,
-      "verified": false
+      "verified": false,
+      "slug": "fluid-sac-faust",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:돈키호테:물주머니",
@@ -4750,10 +4916,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/fluid-sac-don-quixote.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/fluid-sac-don-quixote",
       "sortOrder": 89,
-      "verified": false
+      "verified": false,
+      "slug": "fluid-sac-don-quixote",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:료슈:4번째 성냥불",
@@ -4767,10 +4935,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/4th-match-flame-ryoshu.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/4th-match-flame-ryoshu",
       "sortOrder": 90,
-      "verified": false
+      "verified": false,
+      "slug": "4th-match-flame-ryoshu",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:뫼르소:나사빠진 일격",
@@ -4784,10 +4954,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/screwloose-wallop-meursault.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/screwloose-wallop-meursault",
       "sortOrder": 91,
-      "verified": false
+      "verified": false,
+      "slug": "screwloose-wallop-meursault",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:뫼르소:집행",
@@ -4801,10 +4973,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/pursuance-meursault.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/pursuance-meursault",
       "sortOrder": 92,
-      "verified": false
+      "verified": false,
+      "slug": "pursuance-meursault",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:홍루:분홍욕망",
@@ -4818,10 +4992,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/roseate-desire-hong-lu.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/roseate-desire-hong-lu",
       "sortOrder": 93,
-      "verified": false
+      "verified": false,
+      "slug": "roseate-desire-hong-lu",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:히스클리프:전봇대",
@@ -4835,10 +5011,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/telepole-heathcliff.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/telepole-heathcliff",
       "sortOrder": 94,
-      "verified": false
+      "verified": false,
+      "slug": "telepole-heathcliff",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:이스마엘:분홍욕망",
@@ -4852,10 +5030,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/roseate-desire-ishmael.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/roseate-desire-ishmael",
       "sortOrder": 95,
-      "verified": false
+      "verified": false,
+      "slug": "roseate-desire-ishmael",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:이스마엘:홍염살",
@@ -4869,10 +5049,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/ardor-blossom-star-ishmael.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/ardor-blossom-star-ishmael",
       "sortOrder": 96,
-      "verified": false
+      "verified": false,
+      "slug": "ardor-blossom-star-ishmael",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:로쟈:얼음다리",
@@ -4886,10 +5068,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/rime-shank-rodion.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/rime-shank-rodion",
       "sortOrder": 97,
-      "verified": false
+      "verified": false,
+      "slug": "rime-shank-rodion",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:로쟈:4번째 성냥불",
@@ -4903,10 +5087,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/4th-match-flame-rodion.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/4th-match-flame-rodion",
       "sortOrder": 98,
-      "verified": false
+      "verified": false,
+      "slug": "4th-match-flame-rodion",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:싱클레어:다가올날",
@@ -4920,10 +5106,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/impending-day-sinclair.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/impending-day-sinclair",
       "sortOrder": 99,
-      "verified": false
+      "verified": false,
+      "slug": "impending-day-sinclair",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:오티스:공즉시색",
@@ -4937,10 +5125,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/ya-%C5%9Bunyat%C4%81-tad-rupam-outis.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/ya-%C5%9Bunyat%C4%81-tad-rupam-outis",
       "sortOrder": 100,
-      "verified": false
+      "verified": false,
+      "slug": "ya-śunyatā-tad-rupam-outis",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:오티스:검은줄기",
@@ -4954,10 +5144,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/ebony-stem-outis.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/ebony-stem-outis",
       "sortOrder": 101,
-      "verified": false
+      "verified": false,
+      "slug": "ebony-stem-outis",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:그레고르:눈속임",
@@ -4971,10 +5163,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/legerdemain-gregor.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/legerdemain-gregor",
       "sortOrder": 102,
-      "verified": false
+      "verified": false,
+      "slug": "legerdemain-gregor",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:그레고르:초롱",
@@ -4988,10 +5182,12 @@
       "keywords": [],
       "note": "",
       "type": "normal",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/lantern-gregor.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/lantern-gregor",
       "sortOrder": 103,
-      "verified": false
+      "verified": false,
+      "slug": "lantern-gregor",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:이상:오감도",
@@ -5005,10 +5201,12 @@
       "keywords": [],
       "note": "기본 지급",
       "type": "base",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/crows-eye-view-yi-sang.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/crows-eye-view-yi-sang",
       "sortOrder": 104,
-      "verified": false
+      "verified": false,
+      "slug": "crows-eye-view-yi-sang",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:파우스트:표상 방출기",
@@ -5022,10 +5220,12 @@
       "keywords": [],
       "note": "기본 지급",
       "type": "base",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/representation-emitter-faust.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/representation-emitter-faust",
       "sortOrder": 105,
-      "verified": false
+      "verified": false,
+      "slug": "representation-emitter-faust",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:돈키호테:라 샹그레 데 산쵸",
@@ -5039,10 +5239,12 @@
       "keywords": [],
       "note": "기본 지급",
       "type": "base",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/la-sangre-de-sancho-don-quixote.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/la-sangre-de-sancho-don-quixote",
       "sortOrder": 106,
-      "verified": false
+      "verified": false,
+      "slug": "la-sangre-de-sancho-don-quixote",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:료슈:삼라염상",
@@ -5056,10 +5258,12 @@
       "keywords": [],
       "note": "기본 지급",
       "type": "base",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/forest-for-the-flames-ryoshu.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/forest-for-the-flames-ryoshu",
       "sortOrder": 107,
-      "verified": false
+      "verified": false,
+      "slug": "forest-for-the-flames-ryoshu",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:뫼르소:타인의 사슬",
@@ -5073,10 +5277,12 @@
       "keywords": [],
       "note": "기본 지급",
       "type": "base",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/chains-of-others-meursault.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/chains-of-others-meursault",
       "sortOrder": 108,
-      "verified": false
+      "verified": false,
+      "slug": "chains-of-others-meursault",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:홍루:허환경",
@@ -5090,10 +5296,12 @@
       "keywords": [],
       "note": "기본 지급",
       "type": "base",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/land-of-illusion-hong-lu.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/land-of-illusion-hong-lu",
       "sortOrder": 109,
-      "verified": false
+      "verified": false,
+      "slug": "land-of-illusion-hong-lu",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:히스클리프:시체자루",
@@ -5107,10 +5315,12 @@
       "keywords": [],
       "note": "기본 지급",
       "type": "base",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/bodysack-heathcliff.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/bodysack-heathcliff",
       "sortOrder": 110,
-      "verified": false
+      "verified": false,
+      "slug": "bodysack-heathcliff",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:이스마엘:작살박이",
@@ -5124,10 +5334,12 @@
       "keywords": [],
       "note": "기본 지급",
       "type": "base",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/snagharpoon-ishmael.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/snagharpoon-ishmael",
       "sortOrder": 111,
-      "verified": false
+      "verified": false,
+      "slug": "snagharpoon-ishmael",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:로쟈:던져지는 것",
@@ -5141,10 +5353,12 @@
       "keywords": [],
       "note": "기본 지급",
       "type": "base",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/what-is-cast-rodion.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/what-is-cast-rodion",
       "sortOrder": 112,
-      "verified": false
+      "verified": false,
+      "slug": "what-is-cast-rodion",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:싱클레어:지식나무의 가지",
@@ -5158,10 +5372,12 @@
       "keywords": [],
       "note": "기본 지급",
       "type": "base",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/branch-of-knowledge-sinclair.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/branch-of-knowledge-sinclair",
       "sortOrder": 113,
-      "verified": false
+      "verified": false,
+      "slug": "branch-of-knowledge-sinclair",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:오티스:토 파토스 마토스",
@@ -5175,10 +5391,12 @@
       "keywords": [],
       "note": "기본 지급",
       "type": "base",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/to-p%C3%A1thos-m%C3%A1thos-outis.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/to-p%C3%A1thos-m%C3%A1thos-outis",
       "sortOrder": 114,
-      "verified": false
+      "verified": false,
+      "slug": "to-páthos-máthos-outis",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     },
     {
       "id": "ego:그레고르:어느날 갑자기",
@@ -5192,15 +5410,19 @@
       "keywords": [],
       "note": "기본 지급",
       "type": "base",
-      "image": "",
-      "source": "",
+      "image": "https://assets.limbusdeck.com/egos/full/suddenly-one-day-gregor.webp",
+      "source": "https://limbusdeck.com/ko/database/egos/suddenly-one-day-gregor",
       "sortOrder": 115,
-      "verified": false
+      "verified": false,
+      "slug": "suddenly-one-day-gregor",
+      "imageSource": "LimbusDeck E.G.O official fan database image"
     }
   ],
   "info": {
     "identitySource": "https://www.limbusdeck.com/ko/database/releases",
     "egoSource": "https://www.limbusdeck.com/ko/database/egos",
     "note": "초기 인격 190종, E.G.O 116종. 초기 E.G.O 중 일부의 정확한 출시일/이미지/키워드는 데이터 미확인으로 빈칸 처리."
-  }
+  },
+  "lastEgoImageCheck": "2026-10-24",
+  "egoImageCount": 110
 }
